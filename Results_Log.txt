@@ -1,0 +1,12 @@
+--/Results Log
+Using cuda device
+Model weights loaded from epoch: D:/cancerSegmentation/BCS_ad10_EFFEMRI\best_model.pt
+Calculating Validation Metrics:
+Validation Metrics:
+Dice: 0.9534
+Mae: 0.0021
+Accuracy: 0.9987
+Sensitivity: 0.9474
+Iou: 0.9285
+Specificity: 0.9995
+Precision: 0.9755
